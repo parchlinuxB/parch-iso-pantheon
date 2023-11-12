@@ -1,4 +1,7 @@
 alsa-utils
+pipewire
+pipewire-pulse
+wireplumber
 amd-ucode
 arch-install-scripts
 archinstall
@@ -142,6 +145,7 @@ android-file-transfer
 xorg-server
 lightdm
 lightdm-pantheon-greeter
+lightdm-gtk-greeter
 gala
 plank
 wingpanel
@@ -207,7 +211,9 @@ pantheon-onboarding
 pantheon-polkit-agent
 pantheon-shortcut-overlay
 pantheon-sideload
+pantheon
 parch-pantheon
+
 #systemutils
 btop
 xdg-user-dirs
@@ -224,4 +230,4 @@ paru
 parch-emoji-ios
 parch-branding
 parch-pacman
-parch-welcome
+
