@@ -217,17 +217,16 @@ parch-pantheon
 #systemutils
 btop
 xdg-user-dirs
-packagekit-qt5
+fastfetch
 neofetch-git
-ttf-dejavu
 firefox
 
 #parchlinuxstuff
 calamares
+boost
 calamares-parch
 os-prober
 paru
 parch-emoji-ios
 parch-branding
 parch-pacman
-
