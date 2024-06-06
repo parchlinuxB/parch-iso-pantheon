@@ -143,9 +143,6 @@ android-file-transfer
 
 #Desktop
 xorg-server
-lightdm
-lightdm-pantheon-greeter
-lightdm-gtk-greeter
 gala
 plank
 wingpanel
@@ -220,6 +217,7 @@ xdg-user-dirs
 fastfetch
 neofetch-git
 firefox
+sddm
 
 #parchlinuxstuff
 calamares
